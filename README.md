@@ -1,0 +1,1 @@
+This python file can be imported as a module which can help solve question as it contains basic functions of single and double linked list like insertatbegining, insetatend, insertatposition, size, printlist, deleteatbegining, deleteatend, deletebyvalue
